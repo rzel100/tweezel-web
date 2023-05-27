@@ -1,0 +1,4 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "app.rzel.tweezel.twa", "sha256_cert_fingerprints": ["EE:36:69:D8:D3:3E:CB:45:75:4D:60:EE:FC:57:AD:58:02:C1:AC:48:67:1C:3B:34:E0:B1:2A:8F:00:41:62:2C"] }
+}]
